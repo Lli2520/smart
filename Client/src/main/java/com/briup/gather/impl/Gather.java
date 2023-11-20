@@ -9,5 +9,5 @@ package com.briup.gather.impl;
  * @Create 2023/11/20/020 15:04
  * @Version 1.0
  */
-public interface Gatherimpl {
+public interface Gather {
 }
